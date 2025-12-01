@@ -13,18 +13,11 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "382b352e956c4436",
-        "username": "Ashik11",
-        "password": "Ashik",
-        "expirydate": "15-06-2030",
+   {
+        "device_id": "424b23937f84b118b",
+        "username": "Shohel",
+        "password": "Shohel",
+        "expirydate": "01-12-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "ecf24fa7003b277a",
-        "username": "Tisha11",
-        "password": "Tisha11",
-        "expirydate": "15-06-2030",
-        "Allowoffline": false
-    }
+   } 
 ]
