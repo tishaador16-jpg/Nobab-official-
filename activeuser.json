@@ -42,11 +42,5 @@
         "expirydate": "03-01-2026",
         "Allowoffline": false
     },
-    {
-        "device_id": "60a1eb10b1237c2f",
-        "username": "tasfir121",
-        "password": "tasfir121",
-        "expirydate": "03-01-2023",
-        "Allowoffline": false
-    }
+    
 ]
