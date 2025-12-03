@@ -41,5 +41,12 @@
         "password": "Kasir12",
         "expirydate": "03-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "94dc985fe96c3350",
+        "username": "maya2858",
+        "password": "maya2858",
+        "expirydate": "03-01-2026",
+        "Allowoffline": false
     }
 ]
