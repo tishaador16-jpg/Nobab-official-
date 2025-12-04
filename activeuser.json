@@ -48,6 +48,13 @@
         "password": "Evaan99@@",
         "expirydate": "04-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "78b77c747cf1321f",
+        "username": "Arohi1",
+        "password": "Arohi1",
+        "expirydate": "05-01-2026",
+        "Allowoffline": false
     }
     
 ]
